@@ -10,7 +10,7 @@ const meanEffortByTeamInProject = (projectName,team) => {
     devWorking.forEach(row => hours+=parseInt(row.Hours));
     const meanEffort = hours/devWorking.length;
     return meanEffort;
-    //return meanEffort.toFixed(2); for upto 2 decimal places
+    //return meanEffort.toFixed(2); for upto 2 decimal places in answer
 }
 
 //You can get to know the mean effort spent by various teams on different projects by simply passing two parameters
