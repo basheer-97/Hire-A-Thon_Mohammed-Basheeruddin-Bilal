@@ -4,7 +4,10 @@ Problem Statements
 Problem Statement - 1) Employee performance problem statement
 
 # Description
-<Write some description for your solution>
+Converted the given excel sheet to JSON and then wrote program to identify the following problems,
+1. Mean effort spent by various teams on different Projects.
+2. 5 Employees with the lowest efficiency
+
 
 # Prerequisite
 1)VS Code Editor or any other code editor
@@ -13,5 +16,6 @@ Problem Statement - 1) Employee performance problem statement
 # How to run
 <Write steps to run your solution>
 Steps
-1.
-2.
+1. Clone the github repository or copy the file contents in your code editor
+2. Simply run the following command:
+  node file_name.js
