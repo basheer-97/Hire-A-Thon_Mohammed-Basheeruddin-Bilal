@@ -10,7 +10,7 @@ Converted the given excel sheet to JSON and then wrote program to identify the f
 
 # Prerequisite
 1)VS Code Editor or any other code editor
-2)Nodejs to view the output
+2)Install Nodejs in your laptop/PC
 
 # How to run
 <Write steps to run your solution>
