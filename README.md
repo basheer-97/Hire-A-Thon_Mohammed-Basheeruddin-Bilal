@@ -18,3 +18,4 @@ Steps
 1. Clone the github repository or copy the file contents in your code editor
 2. Simply run the following command:
   node file_name.js
+3. In this case as the repository,type node mean_effort.js in command prompt to get output
