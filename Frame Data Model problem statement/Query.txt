@@ -1,0 +1,6 @@
+**query for the getting the branch with the highest efficiency for the current month**
+
+select BranchName from DeliveryEfficiency where efficiency = ( select min(efficiency) from DeliveryEfficiency );
+
+//DeliveryEfficiency is the name of the table
+//BranchName,efficiency are column names
